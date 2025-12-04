@@ -51,5 +51,6 @@ Cada writeup sigue una **metodología estructurada y profesional**:
 </div>
 </div>
 
-
-Happy Hacking! 🚩
+<div align="center">
+  Happy Hacking! 🚩
+</div>
