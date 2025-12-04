@@ -108,17 +108,16 @@ Los writeups están diseñados para ser **educativos y reproducibles**, incluyen
 - GitHub: https://github.com/pistacha-git
 - LinkedIn: https://www.linkedin.com/in/nazaret-castillo-jim%C3%A9nez/
 - HackTheBox:  https://app.hackthebox.com/profile/2392414
+
+
 <div align="center">
 ⭐ **Si este repositorio te ha sido útil, considera darle una estrella y compartirlo con la comunidad de ciberseguridad.**
 </div>
 
 
-
 <div align="center">
   <img width="500" height="500" alt="PistachaHacker" src="https://github.com/user-attachments/assets/d3242a6a-a0e3-4641-a46c-0fbb2f2873e2" />
 </div>
-</div>
-
 
 
 <div align="center">
