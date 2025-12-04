@@ -311,7 +311,7 @@ cat /root/root.txt
 
 
 <div align="center">
-⭐ Si te ha sido útil este writeup, considera darle una estrella al repositorio!
+⭐ ¡Si te ha sido útil este writeup, considera darle una estrella al repositorio!
 </div>
 
 
