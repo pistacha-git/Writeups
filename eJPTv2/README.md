@@ -1,4 +1,4 @@
-# 🎯 Repositorio de Máquinas de Práctica - eJPTv2
+ # 🎯 Repositorio de Máquinas de Práctica - eJPTv2
 
 Este repositorio contiene una **colección exhaustiva de writeups técnicos** de máquinas de práctica cuidadosamente seleccionadas para la preparación de la certificación **eJPTv2 (eLearnSecurity Junior Penetration Tester)**. 
 
