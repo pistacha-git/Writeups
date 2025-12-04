@@ -103,26 +103,6 @@ Los writeups están diseñados para ser **educativos y reproducibles**, incluyen
 4. **Toma notas de técnicas nuevas** - Construye tu propia metodología
 5. **Experimenta con variaciones** - Prueba diferentes herramientas y enfoques
 
-## ⚠️ Disclaimer Legal
-
-**IMPORTANTE**: Todo el contenido de este repositorio es con **fines estrictamente educativos y de investigación en ciberseguridad**. 
-
--  Solo realiza pruebas de penetración en entornos **autorizados y legales**
--  HackTheBox proporciona un entorno **legal y controlado** para practicar
--  **NO** utilices estas técnicas en sistemas sin autorización explícita
--  El uso indebido de esta información puede resultar en **consecuencias legales graves**
-
-El autor de este repositorio **NO se hace responsable** del uso indebido de la información aquí contenida.
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas agregar tus propios writeups:
-
-1. Fork el repositorio
-2. Crea una rama con tu writeup (`git checkout -b writeup/machine-name`)
-3. Asegúrate de seguir el formato establecido
-4. Realiza un Pull Request con una descripción clara
-
 ## 📞 Contacto
 
 - GitHub: https://github.com/pistacha-git
