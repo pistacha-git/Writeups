@@ -1,4 +1,4 @@
-# Armageddon - HackTheBox Writeup
+# Armageddon - HackTheBox - Writeup PistachaHacker
 
 ![Dificultad](https://img.shields.io/badge/Dificultad-Fácil-green)
 ![SO](https://img.shields.io/badge/SO-Linux-blue)
