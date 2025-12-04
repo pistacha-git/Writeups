@@ -18,10 +18,10 @@ Los laboratorios prácticos cubren **todos los dominios evaluados en el examen e
 
 ## 🎓 ¿Para quién es este repositorio?
 
-- ✅ Estudiantes preparándose para la **certificación eJPTv2**
-- ✅ Profesionales de ciberseguridad que buscan **reforzar habilidades prácticas**
-- ✅ Entusiastas del pentesting que desean **aprender metodologías reales**
-- ✅ Cualquier persona interesada en **hacking ético y pruebas de penetración**
+-  Estudiantes preparándose para la **certificación eJPTv2**
+-  Profesionales de ciberseguridad que buscan **reforzar habilidades prácticas**
+-  Entusiastas del pentesting que desean **aprender metodologías reales**
+-  Cualquier persona interesada en **hacking ético y pruebas de penetración**
 
 ## 🛠️ Metodología
 
