@@ -5,12 +5,6 @@
 ![Tags](https://img.shields.io/badge/Tags-CMS%20|%20Drupal%20|%20SQLi%20|%20PrivEsc-orange)
 
 
-<div align="center">
-  <img width="882" height="633" alt="Pwned!" src="https://github.com/user-attachments/assets/1511774c-a93f-42d4-be61-7c59d0a03a14" />
-</div>
-
-
-
 ## Información de la Máquina
 
 - **Nombre**: Armageddon
@@ -267,6 +261,12 @@ cat /root/root.txt
 ### Root Flag
 - **Ubicación**: `/root/root.txt`
 - **Flag**: `c8196de4144f92002927a237567c9acd`
+
+
+<div align="center">
+  <img width="882" height="633" alt="Pwned!" src="https://github.com/user-attachments/assets/1511774c-a93f-42d4-be61-7c59d0a03a14" />
+</div>
+
 
 ---
 
