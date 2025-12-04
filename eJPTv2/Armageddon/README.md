@@ -300,12 +300,15 @@ cat /root/root.txt
 **Disclaimer**: Este writeup es con fines educativos. Solo realiza pentesting en entornos autorizados.
 
 ---
-<div align="center">
-⭐ Si te ha sido útil este writeup, considera darle una estrella al repositorio!
-</div>
+
 
 <div align="center">
   <img width="500" height="500" alt="PistachaHacker" src="https://github.com/user-attachments/assets/d3242a6a-a0e3-4641-a46c-0fbb2f2873e2" />
+</div>
+
+
+<div align="center">
+⭐ Si te ha sido útil este writeup, considera darle una estrella al repositorio!
 </div>
 
 
