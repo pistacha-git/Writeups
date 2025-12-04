@@ -111,7 +111,7 @@ Los writeups están diseñados para ser **educativos y reproducibles**, incluyen
 
 
 <div align="center">
-⭐ **Si este repositorio te ha sido útil, considera darle una estrella y compartirlo con la comunidad de ciberseguridad.**
+⭐ Si este repositorio te ha sido útil, considera darle una estrella y compartirlo con la comunidad de ciberseguridad.
 </div>
 
 
